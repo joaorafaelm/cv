@@ -1,4 +1,4 @@
-## Joao Rafael Martins
+### Joao Rafael Martins
 [Linkedin](https://linkedin.com/in/joaoraf) | [Github](https://github.com/joaorafaelm) | [joaoraf@me.com](mailto:joaoraf@me.com) | Curitiba, Brazil
 
 *Experienced and highly skilled software engineer with over 10 years of experience in web and ML/AI development. Strong expertise in back-end development, cryptocurrencies, NLP research, and predictive modeling. Demonstrated ability to design and implement scalable and efficient software solutions using a variety of technologies. Passionate about solving complex challenges and driving impactful results.*
