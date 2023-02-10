@@ -54,3 +54,14 @@
 * Created custom CMS solutions and e-commerce platforms, meeting the specific requirements and needs of clients.
 * Integrated with payment gateways and APIs from other platforms, expanding the capabilities and functionality of the applications.
 * Performed database administration and maintenance, ensuring the integrity and security of the data.
+
+### **EDUCATION**
+
+Bachelor's Degree in Information Systems @ FESP / Brazil / 2014-2017
+
+### **LANGUAGES**
+
+* English — Fluent
+* Portuguese — Native
+* French — Basic Level
+* Spanish — Basic Level
