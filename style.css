@@ -1,3 +1,21 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-9');
 * {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height: 1;
+    text-underline-position: under;
 }
+
+hr {
+    border-style: solid;
+    margin: 15px auto;
+    clear: both;
+}
+
+a {
+    margin: auto 2px;
+}
+
+a:link{color:inherit}
+a:active{color:inherit}
+a:visited{color:inherit}
+a:hover{color:inherit}
